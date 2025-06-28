@@ -1,0 +1,13 @@
+train: D:/yolov7-Tiny-pests/data/train/images
+val: D:/yolov7-Tiny-pests/data/valid/images
+test: D:/yolov7-Tiny-pests/data/test/images
+
+nc: 8
+names: ['Tomato Early blight leaf', 'Tomato Septoria leaf spot', 'Tomato leaf', 'Tomato leaf bacterial spot', 'Tomato leaf late blight', 'Tomato leaf mosaic virus', 'Tomato leaf yellow virus', 'Tomato mold leaf']
+
+roboflow:
+  workspace: ppe-detection-7kco8
+  project: proposed-vl1ej
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ppe-detection-7kco8/proposed-vl1ej/dataset/1
