@@ -1,1 +1,1 @@
-DGS-Yolov7-Tiny: A lightweight pest and disease target detection model suitable for edge computing environments
+This code is the implementation of the paper “DGS-Yolov7-Tiny: A Lightweight Pest and Disease Detection Model for Edge Computing Environments.” The dataset can be accessed at https://github.com/zongbaoshu/Tomato-leaf-pest-and-disease-detection-data-set.git. The final model configuration file is cfg/training/yolov7-tiny-DGS.yaml.
